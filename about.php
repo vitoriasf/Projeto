@@ -51,7 +51,7 @@
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
-	<![endif]-->	
+	<![endif]-->
 
 	</head>
 	<body>
@@ -64,11 +64,11 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-2 text-center">
-							<div id="colorlib-logo"><a href="index.html">Victory's</a></div>
+							<div id="colorlib-logo"><a href="index.html">Landing</a></div>
 						</div>
 						<div class="col-md-10 text-right menu-1">
 							<ul>
-								<!--<li class="active"><a href="index.html">Home</a></li>
+								<li><a href="index.html">Home</a></li>
 								<li class="has-dropdown">
 									<a href="work.html">Work</a>
 									<ul class="dropdown">
@@ -79,11 +79,10 @@
 								</li>
 								<li><a href="services.html">Services</a></li>
 								<li><a href="blog.html">Blog</a></li>
-								<li><a href="about.html">About</a></li>
-								<li><a href="contact.html">Contact</a></li>-->
-								<li class="btn-cta"><a href="http://localhost:8080/cadastro.php">Cadastrar</a></li>
-								<li class="btn-cta"><a href="http://localhost:8080/login.php">Entrar</a></li>
-								
+								<li class="active"><a href="about.html">About</a></li>
+								<li><a href="contact.html">Contact</a></li>
+								<li class="btn-cta"><a href="#">Sign Up</a></li>
+								<li class="btn-cta"><a href="#">Login</a></li>
 							</ul>
 						</div>
 					</div>
@@ -95,159 +94,114 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center">
 						<div class="intro">
-							<h1>OS MELHORES LOOKS DO TOCANTINS</h1>
-							<p>O lugar onde você pode encontrar as melhores tendências do Tocantins. O nosso tema é econômia e elegância.</p>
-							<!--<p><a href="#" class="btn btn-primary btn-outline btn-md">Live Preview</a> <a href="#" class="btn btn-primary btn-outline btn-md">Lean more</a></p>
-						--></div>
+							<h1>About Us</h1>
+							<p><span><a href="index.html">Home</a></span> / <span>About</span></p>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		<aside id="colorlib-hero">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="flexslider">
-							<ul class="slides">
-						   	<li style="background-image: url(images/MODA1.jpg);">
-						   		<div class="overlay"></div>
-						   	</li>
-						   	<li style="background-image: url(images/MODA2.jpg);">
-						   		<div class="overlay"></div>
-						   	</li>
-						   	<li style="background-image: url(images/MODA3.jpg);">
-						   		<div class="overlay"></div>
-						   	</li>
-						   	<li style="background-image: url(images/MODA4.png);">
-						   		<div class="overlay"></div>
-						   	</li>	
-						  	</ul>
-					  	</div>
-				  	</div>
-			  	</div>
-		  	</div>
-		</aside>
 
-		<div id="colorlib-work">
-			<div class="container-fluid">
-			<div class="row">
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-1.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-2.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-3.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-4.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-5.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-6.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-			</div>
-			</div>
-		</div>
-
-		<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/cover_img_1.jpg);" data-stellar-background-ratio="0.5">
-			<div class="overlay"></div>
+		<div id="colorlib-about">
 			<div class="container">
+				<div class="row row-pb-lg">
+					<div class="col-md-6 animate-box">
+						<div class="about-wrap">
+							<h2>About Landing</h2>
+							<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+							<p>The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
+						</div>
+					</div>
+					<div class="col-md-6 animate-box">
+						<div class="video colorlib-video" style="background-image: url(images/img_bg_2.jpg);">
+							<a href="https://vimeo.com/channels/staffpicks/93951774" class="popup-vimeo"><i class="icon-play3"></i></a>
+							<div class="overlay"></div>
+						</div>
+					</div>
+				</div>
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
-						<h2>My Accomplishment</h2>
+						<h2>Colleagues</h2>
+						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-10 col-md-offset-1">
-						<div class="col-md-4 col-sm-4 text-center animate-box">
-							<div class="counter-entry">
-								<span class="icon"><i class="icon-paperplane"></i></span>
-								<div class="desc">
-									<span class="colorlib-counter js-counter" data-from="0" data-to="1539" data-speed="5000" data-refresh-interval="50"></span>
-									<span class="colorlib-counter-label">Projects</span>
-								</div>
+					<div class="col-md-3 text-center animate-box">
+						<div class="staff-entry">
+							<a href="#" class="staff-img" style="background-image: url(images/person1.jpg);"></a>
+							<div class="desc">
+								<h3>Emily Turner</h3>
+								<span>Programmer</span>
+								<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+								<p>
+									<ul class="colorlib-social-icons">
+										<li><a href="#"><i class="icon-twitter"></i></a></li>
+										<li><a href="#"><i class="icon-facebook"></i></a></li>
+										<li><a href="#"><i class="icon-linkedin"></i></a></li>
+										<li><a href="#"><i class="icon-dribbble"></i></a></li>
+									</ul>
+								</p>
 							</div>
 						</div>
-						<div class="col-md-4 col-sm-4 text-center animate-box">
-							<div class="counter-entry">
-								<span class="icon"><i class="icon-cup"></i></span>
-								<div class="desc">
-									<span class="colorlib-counter js-counter" data-from="0" data-to="3653" data-speed="5000" data-refresh-interval="50"></span>
-									<span class="colorlib-counter-label">Cups of Coffee</span>
-								</div>
+					</div>
+					<div class="col-md-3 text-center animate-box">
+						<div class="staff-entry">
+							<a href="#" class="staff-img" style="background-image: url(images/person2.jpg);"></a>
+							<div class="desc">
+								<h3>Adam Morris</h3>
+								<span>Graphic Designer</span>
+								<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+								<p>
+									<ul class="colorlib-social-icons">
+										<li><a href="#"><i class="icon-twitter"></i></a></li>
+										<li><a href="#"><i class="icon-facebook"></i></a></li>
+										<li><a href="#"><i class="icon-linkedin"></i></a></li>
+										<li><a href="#"><i class="icon-dribbble"></i></a></li>
+									</ul>
+								</p>
 							</div>
 						</div>
-						<div class="col-md-4 col-sm-4 text-center animate-box">
-							<div class="counter-entry">
-								<span class="icon"><i class="icon-user2"></i></span>
-								<div class="desc">
-									<span class="colorlib-counter js-counter" data-from="0" data-to="5987" data-speed="5000" data-refresh-interval="50"></span>
-									<span class="colorlib-counter-label">Satisfied Clients</span>
-								</div>
+					</div>
+					<div class="col-md-3 text-center animate-box">
+						<div class="staff-entry">
+							<a href="#" class="staff-img" style="background-image: url(images/person3.jpg);"></a>
+							<div class="desc">
+								<h3>Noah Nelson</h3>
+								<span>Web Designer</span>
+								<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+								<p>
+									<ul class="colorlib-social-icons">
+										<li><a href="#"><i class="icon-twitter"></i></a></li>
+										<li><a href="#"><i class="icon-facebook"></i></a></li>
+										<li><a href="#"><i class="icon-linkedin"></i></a></li>
+										<li><a href="#"><i class="icon-dribbble"></i></a></li>
+									</ul>
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 text-center animate-box">
+						<div class="staff-entry">
+							<a href="#" class="staff-img" style="background-image: url(images/person4.jpg);"></a>
+							<div class="desc">
+								<h3>Dorothy Murphy</h3>
+								<span>UI/UX Designer</span>
+								<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+								<p>
+									<ul class="colorlib-social-icons">
+										<li><a href="#"><i class="icon-twitter"></i></a></li>
+										<li><a href="#"><i class="icon-facebook"></i></a></li>
+										<li><a href="#"><i class="icon-linkedin"></i></a></li>
+										<li><a href="#"><i class="icon-dribbble"></i></a></li>
+									</ul>
+								</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+		
 		<footer id="colorlib-footer">
 			<div class="newsletter">
 				<div class="container">
@@ -351,7 +305,7 @@
 						<div class="col-md-12 text-center">
 							<p>
 								<small class="block"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart3" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></small><br> 
 								<small class="block">Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a>, <a href="http://pexels.com/" target="_blank">Pexels</a></small>
 							</p>

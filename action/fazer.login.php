@@ -15,7 +15,7 @@
         session_regenerate_id();
         $_SESSION['usuario']['id'] = $usuario->id;
         $_SESSION['usuario']['email'] = $_POST['email'];
-        header('location: '. SITE_HOME .'/index.php');
+        header('location: '. SITE_HOME .'/pagina.php');
     } else {
         header('location: '. SITE_HOME .'/login.php?erro');
     }

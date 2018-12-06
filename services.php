@@ -51,7 +51,7 @@
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
-	<![endif]-->	
+	<![endif]-->
 
 	</head>
 	<body>
@@ -64,11 +64,11 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-2 text-center">
-							<div id="colorlib-logo"><a href="index.html">Victory's</a></div>
+							<div id="colorlib-logo"><a href="index.html">Landing</a></div>
 						</div>
 						<div class="col-md-10 text-right menu-1">
 							<ul>
-								<!--<li class="active"><a href="index.html">Home</a></li>
+								<li><a href="index.html">Home</a></li>
 								<li class="has-dropdown">
 									<a href="work.html">Work</a>
 									<ul class="dropdown">
@@ -77,13 +77,12 @@
 										<li><a href="#">Original Work</a></li>
 									</ul>
 								</li>
-								<li><a href="services.html">Services</a></li>
+								<li class="active"><a href="services.html">Services</a></li>
 								<li><a href="blog.html">Blog</a></li>
 								<li><a href="about.html">About</a></li>
-								<li><a href="contact.html">Contact</a></li>-->
-								<li class="btn-cta"><a href="http://localhost:8080/cadastro.php">Cadastrar</a></li>
-								<li class="btn-cta"><a href="http://localhost:8080/login.php">Entrar</a></li>
-								
+								<li><a href="contact.html">Contact</a></li>
+								<li class="btn-cta"><a href="#">Sign Up</a></li>
+								<li class="btn-cta"><a href="#">Login</a></li>
 							</ul>
 						</div>
 					</div>
@@ -95,159 +94,105 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center">
 						<div class="intro">
-							<h1>OS MELHORES LOOKS DO TOCANTINS</h1>
-							<p>O lugar onde você pode encontrar as melhores tendências do Tocantins. O nosso tema é econômia e elegância.</p>
-							<!--<p><a href="#" class="btn btn-primary btn-outline btn-md">Live Preview</a> <a href="#" class="btn btn-primary btn-outline btn-md">Lean more</a></p>
-						--></div>
+							<h1>Services</h1>
+							<p><span><a href="index.html">Home</a></span> / <span>Services</span></p>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		<aside id="colorlib-hero">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="flexslider">
-							<ul class="slides">
-						   	<li style="background-image: url(images/MODA1.jpg);">
-						   		<div class="overlay"></div>
-						   	</li>
-						   	<li style="background-image: url(images/MODA2.jpg);">
-						   		<div class="overlay"></div>
-						   	</li>
-						   	<li style="background-image: url(images/MODA3.jpg);">
-						   		<div class="overlay"></div>
-						   	</li>
-						   	<li style="background-image: url(images/MODA4.png);">
-						   		<div class="overlay"></div>
-						   	</li>	
-						  	</ul>
-					  	</div>
-				  	</div>
-			  	</div>
-		  	</div>
-		</aside>
 
-		<div id="colorlib-work">
-			<div class="container-fluid">
-			<div class="row">
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-1.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-2.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-3.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-4.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-5.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-6.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-			</div>
-			</div>
-		</div>
-
-		<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/cover_img_1.jpg);" data-stellar-background-ratio="0.5">
-			<div class="overlay"></div>
+		<div id="colorlib-services">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
-						<h2>My Accomplishment</h2>
+						<h2>How It Works</h2>
+						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-10 col-md-offset-1">
-						<div class="col-md-4 col-sm-4 text-center animate-box">
-							<div class="counter-entry">
-								<span class="icon"><i class="icon-paperplane"></i></span>
-								<div class="desc">
-									<span class="colorlib-counter js-counter" data-from="0" data-to="1539" data-speed="5000" data-refresh-interval="50"></span>
-									<span class="colorlib-counter-label">Projects</span>
-								</div>
+					<div class="col-md-4 text-center animate-box">
+						<div class="services">
+							<span class="icon">
+								<i class="icon-lightbulb"></i>
+							</span>
+							<div class="desc">
+								<h3>User Experienced</h3>
+								<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line</p>
 							</div>
 						</div>
-						<div class="col-md-4 col-sm-4 text-center animate-box">
-							<div class="counter-entry">
-								<span class="icon"><i class="icon-cup"></i></span>
-								<div class="desc">
-									<span class="colorlib-counter js-counter" data-from="0" data-to="3653" data-speed="5000" data-refresh-interval="50"></span>
-									<span class="colorlib-counter-label">Cups of Coffee</span>
-								</div>
+					</div>
+					<div class="col-md-4 text-center animate-box">
+						<div class="services">
+							<span class="icon">
+								<i class="icon-tools"></i>
+							</span>
+							<div class="desc">
+								<h3>Virtual Design</h3>
+								<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line</p>
 							</div>
 						</div>
-						<div class="col-md-4 col-sm-4 text-center animate-box">
-							<div class="counter-entry">
-								<span class="icon"><i class="icon-user2"></i></span>
-								<div class="desc">
-									<span class="colorlib-counter js-counter" data-from="0" data-to="5987" data-speed="5000" data-refresh-interval="50"></span>
-									<span class="colorlib-counter-label">Satisfied Clients</span>
+					</div>
+					<div class="col-md-4 text-center animate-box">
+						<div class="services">
+							<span class="icon">
+								<i class="icon-map"></i>
+							</span>
+							<div class="desc">
+								<h3>Design &amp; Research</h3>
+								<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line</p>
 								</div>
-							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+
+		<div id="colorlib-pricing">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
+						<h2>Pricing</h2>
+						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-3 text-center animate-box">
+						<div class="pricing">
+							<h2 class="pricing-heading">Starter</h2>
+							<div class="price"><sup class="currency">$</sup>9<small>per month</small></div>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<p><a href="#" class="btn btn-primary">Select Plan</a></p>
+						</div>
+					</div>
+					<div class="col-md-3 text-center animate-box">
+						<div class="pricing">
+							<h2 class="pricing-heading">Basic</h2>
+							<div class="price"><sup class="currency">$</sup>27<small>per month</small></div>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<p><a href="#" class="btn btn-primary">Select Plan</a></p>
+						</div>
+					</div>
+					<div class="col-md-3 text-center animate-box">
+						<div class="pricing">
+							<h2 class="pricing-heading">Pro</h2>
+							<div class="price"><sup class="currency">$</sup>74<small>per month</small></div>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<p><a href="#" class="btn btn-primary">Select Plan</a></p>
+						</div>
+					</div>
+					<div class="col-md-3 text-center animate-box">
+						<div class="pricing">
+							<h2 class="pricing-heading">Unlimited</h2>
+							<div class="price"><sup class="currency">$</sup>140<small>per month</small></div>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<p><a href="#" class="btn btn-primary">Select Plan</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
 		<footer id="colorlib-footer">
 			<div class="newsletter">
 				<div class="container">

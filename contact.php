@@ -51,7 +51,7 @@
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
-	<![endif]-->	
+	<![endif]-->
 
 	</head>
 	<body>
@@ -64,11 +64,11 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-2 text-center">
-							<div id="colorlib-logo"><a href="index.html">Victory's</a></div>
+							<div id="colorlib-logo"><a href="index.html">Landing</a></div>
 						</div>
 						<div class="col-md-10 text-right menu-1">
 							<ul>
-								<!--<li class="active"><a href="index.html">Home</a></li>
+								<li><a href="index.html">Home</a></li>
 								<li class="has-dropdown">
 									<a href="work.html">Work</a>
 									<ul class="dropdown">
@@ -80,10 +80,9 @@
 								<li><a href="services.html">Services</a></li>
 								<li><a href="blog.html">Blog</a></li>
 								<li><a href="about.html">About</a></li>
-								<li><a href="contact.html">Contact</a></li>-->
-								<li class="btn-cta"><a href="http://localhost:8080/cadastro.php">Cadastrar</a></li>
-								<li class="btn-cta"><a href="http://localhost:8080/login.php">Entrar</a></li>
-								
+								<li class="active"><a href="contact.html">Contact</a></li>
+								<li class="btn-cta"><a href="#">Sign Up</a></li>
+								<li class="btn-cta"><a href="#">Login</a></li>
 							</ul>
 						</div>
 					</div>
@@ -95,159 +94,83 @@
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 text-center">
 						<div class="intro">
-							<h1>OS MELHORES LOOKS DO TOCANTINS</h1>
-							<p>O lugar onde você pode encontrar as melhores tendências do Tocantins. O nosso tema é econômia e elegância.</p>
-							<!--<p><a href="#" class="btn btn-primary btn-outline btn-md">Live Preview</a> <a href="#" class="btn btn-primary btn-outline btn-md">Lean more</a></p>
-						--></div>
+							<h1>Contact Us</h1>
+							<p><span><a href="index.html">Home</a></span> / <span>Contact</span></p>
+						</div>
 					</div>
 				</div>
-			</div>
-		</div>
-		<aside id="colorlib-hero">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="flexslider">
-							<ul class="slides">
-						   	<li style="background-image: url(images/MODA1.jpg);">
-						   		<div class="overlay"></div>
-						   	</li>
-						   	<li style="background-image: url(images/MODA2.jpg);">
-						   		<div class="overlay"></div>
-						   	</li>
-						   	<li style="background-image: url(images/MODA3.jpg);">
-						   		<div class="overlay"></div>
-						   	</li>
-						   	<li style="background-image: url(images/MODA4.png);">
-						   		<div class="overlay"></div>
-						   	</li>	
-						  	</ul>
-					  	</div>
-				  	</div>
-			  	</div>
-		  	</div>
-		</aside>
-
-		<div id="colorlib-work">
-			<div class="container-fluid">
-			<div class="row">
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-1.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-2.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-3.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-4.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-5.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 no-gutters text-center animate-box">
-					<a href="work.html" class="work-entry" style="background-image: url(images/work-6.jpg);">
-						<div class="desc">
-							<div class="display-t">
-								<div class="display-tc">
-									<span>Illustration</span>
-									<h2>Work Name</h2>
-								</div>
-							</div>
-						</div>
-					</a>
-				</div>
-			</div>
 			</div>
 		</div>
 
-		<div id="colorlib-counter" class="colorlib-counters" style="background-image: url(images/cover_img_1.jpg);" data-stellar-background-ratio="0.5">
-			<div class="overlay"></div>
+		<div id="colorlib-contact">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
-						<h2>My Accomplishment</h2>
+					<div class="col-md-4 animate-box">
+						<h2 class="contact-head">Contact Information</h2>
+						<div class="row">
+							<div class="col-md-12">
+								<div class="contact-info-wrap-flex">
+									<div class="con-info">
+										<p><span><i class="icon-location-2"></i></span> 198 West 21th Street, <br> Suite 721 New York NY 10016</p>
+									</div>
+									<div class="con-info">
+										<p><span><i class="icon-phone3"></i></span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+									</div>
+									<div class="con-info">
+										<p><span><i class="icon-paperplane"></i></span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+									</div>
+									<div class="con-info">
+										<p><span><i class="icon-globe"></i></span> <a href="#">yourwebsite.com</a></p>
+									</div>
+								</div>
+							</div>
+						</div>
 					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-10 col-md-offset-1">
-						<div class="col-md-4 col-sm-4 text-center animate-box">
-							<div class="counter-entry">
-								<span class="icon"><i class="icon-paperplane"></i></span>
-								<div class="desc">
-									<span class="colorlib-counter js-counter" data-from="0" data-to="1539" data-speed="5000" data-refresh-interval="50"></span>
-									<span class="colorlib-counter-label">Projects</span>
+					<div class="col-md-8 animate-box">
+						<h2 class="contact-head">Get In Touch</h2>
+						<form action="#">
+							<div class="row form-group">
+								<div class="col-md-6">
+									<!-- <label for="fname">First Name</label> -->
+									<input type="text" id="fname" class="form-control" placeholder="Your firstname">
+								</div>
+								<div class="col-md-6">
+									<!-- <label for="lname">Last Name</label> -->
+									<input type="text" id="lname" class="form-control" placeholder="Your lastname">
 								</div>
 							</div>
-						</div>
-						<div class="col-md-4 col-sm-4 text-center animate-box">
-							<div class="counter-entry">
-								<span class="icon"><i class="icon-cup"></i></span>
-								<div class="desc">
-									<span class="colorlib-counter js-counter" data-from="0" data-to="3653" data-speed="5000" data-refresh-interval="50"></span>
-									<span class="colorlib-counter-label">Cups of Coffee</span>
+
+							<div class="row form-group">
+								<div class="col-md-12">
+									<!-- <label for="email">Email</label> -->
+									<input type="text" id="email" class="form-control" placeholder="Your email address">
 								</div>
 							</div>
-						</div>
-						<div class="col-md-4 col-sm-4 text-center animate-box">
-							<div class="counter-entry">
-								<span class="icon"><i class="icon-user2"></i></span>
-								<div class="desc">
-									<span class="colorlib-counter js-counter" data-from="0" data-to="5987" data-speed="5000" data-refresh-interval="50"></span>
-									<span class="colorlib-counter-label">Satisfied Clients</span>
+
+							<div class="row form-group">
+								<div class="col-md-12">
+									<!-- <label for="subject">Subject</label> -->
+									<input type="text" id="subject" class="form-control" placeholder="Your subject of this message">
 								</div>
 							</div>
-						</div>
+
+							<div class="row form-group">
+								<div class="col-md-12">
+									<!-- <label for="message">Message</label> -->
+									<textarea name="message" id="message" cols="30" rows="10" class="form-control" placeholder="Say something about us"></textarea>
+								</div>
+							</div>
+							<div class="form-group">
+								<input type="submit" value="Send Message" class="btn btn-primary">
+							</div>
+						</form>		
 					</div>
 				</div>
 			</div>
 		</div>
+
+		<div id="map" class="colorlib-map"></div>
+		
 		<footer id="colorlib-footer">
 			<div class="newsletter">
 				<div class="container">
@@ -385,6 +308,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	<script src="js/magnific-popup-options.js"></script>
 	<!-- Counters -->
 	<script src="js/jquery.countTo.js"></script>
+	<!-- Google Map -->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
+	<script src="js/google_map.js"></script>
 	<!-- Main -->
 	<script src="js/main.js"></script>
 

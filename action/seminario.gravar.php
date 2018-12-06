@@ -10,5 +10,5 @@
     $seminariodao = new SeminarioDAO();
     $seminariodao->gravarSeminario($aluno_id, $tema, $data);
 
-    header('location: '. SITE_HOME .'/index.php');
+    header('location: '. SITE_HOME .'/pagina.php');
 ?>
